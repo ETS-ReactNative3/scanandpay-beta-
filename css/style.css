@@ -15,6 +15,11 @@
     z-index: 99999;
 }
 
+
+#fotoproductopago {
+    max-width:10px;
+}
+
 #spinner.show {
     transition: opacity .5s ease-out, visibility 0s linear 0s;
     visibility: visible;

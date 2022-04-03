@@ -76,6 +76,10 @@ label {
   
 }
 
+#fotoproductopago {
+  max-width:10px;
+}
+
 
 /* Column headers */
 .column-labels {
