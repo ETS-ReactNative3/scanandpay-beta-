@@ -47,7 +47,7 @@ if ($nr == 0)
 
 if(mysqli_query($conn,$queryregistrar))
 {
-	echo "<script> alert('Usuario registrado: $nombre');window.location= 'Iniciodesessión.html' </script>";
+	echo "<script> alert('Usuario registrado: $nombre');window.location= 'menuinicial.html' </script>";
 }
 else 
 {
